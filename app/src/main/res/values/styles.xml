@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:colorBackground">@color/white</item>
+
+        <item name="android:statusBarColor" tools:targetApi="m">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/white</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+
+        <item name="actionMenuTextColor">@color/black</item>
+
+        <item name="colorControlNormal">@color/gray</item>
+        <item name="android:textColorPrimaryInverse">@color/black</item>
+
+        <item name="android:actionMenuTextColor">@color/black</item>
+
+        <item name="itemIconTint">@color/gray</item>
+        <item name="itemTextColor">@color/semi_gray</item>
+
+    </style>
+
+</resources>

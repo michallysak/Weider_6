@@ -1,0 +1,151 @@
+<resources>
+
+    <!--  STRING  -->
+
+    <string name="app_name">Weider 6</string>
+
+    <!--  MENU  -->
+
+    <!--  SETTINGS  -->
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="information">Information</string>
+    <string name="battery_saver">Set by Battery saver</string>
+    <string name="delete_progress">Delete progress</string>
+    <string name="version">Version</string>
+    <string name="reminder_about_training">Training reminders</string>
+    <string name="enable_reminders">Enable reminders</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System default</string>
+    <string name="reminders_time">Reminders time</string>
+    <string name="reminders_disabled">Disabled</string>
+    <string name="general">General</string>
+    <string name="portrait">Portrait</string>
+    <string name="landscape">Landscape</string>
+    <string name="auto">Auto</string>
+    <string name="screen_orientation_during_training">Training screen orientation</string>
+    <string name="delete_progress_title">Do you really want to delete your progress</string>
+    <string name="break_between_exercises">Break between exercises</string>
+    <string name="break_between_series">Break between series</string>
+    <string name="keep_screen_on">Keep screen on</string>
+    <string name="training_setup">Training setup</string>
+    <string name="sec">sec</string>
+    <string name="after_delete_progress_info">Your progress has been removed</string>
+
+    <!--  SHORT ACTION  -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--  HOME  -->
+    <string name="day">Day</string>
+    <string name="go">Go</string>
+    <string name="how_to">How-to</string>
+
+
+    <!--  SUMMARY  -->
+    <string name="summary">Summary</string>
+    <string name="series">Series</string>
+    <string name="exercise">Exercise</string>
+    <string name="repeat">Repeat</string>
+
+    <!--  TRAINING  -->
+    <string name="exit_training">Do you really want to finished training</string>
+    <string name="training_will_start_in">Training will start in</string>
+    <string name="to_new_series">To new series</string>
+    <string name="to_new_exercise">To new exercise</string>
+    <string name="click_button_to_start">Click button to start</string>
+
+    <!--  TST  -->
+    <string name="tst_up">Up</string>
+    <string name="tst_down">Down</string>
+    <string name="tst_switch">Switch</string>
+    <string name="tst_finished">Training finished</string>
+
+    <!--  IMG DESC  -->
+    <string name="screen_orientation_button">Screen orientation button</string>
+    <string name="exercise_image">exercise image</string>
+    <string name="is_training_passed">Is training passed</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="you_have_completed_all_training_days">You have completed all training days</string>
+    <string name="ok" translatable="false">ok</string>
+
+    <string name="service_restriction_xiaomi">To get training reminders, allow autostart</string>
+    <string name="attention">Attention</string>
+    <string name="dont_show_again">Don\'t show again</string>
+
+    <!--  NEW UP -->
+
+
+    <!--  ARRAYS  -->
+
+    <!--  HOW-TO  -->
+    <string-array name="exercise_titles">
+        <item>Exercise 1</item>
+        <item>Exercise 2</item>
+        <item>Exercise 3</item>
+        <item>Exercise 4</item>
+        <item>Exercise 5</item>
+        <item>Exercise 6</item>
+    </string-array>
+
+    <string-array name="exercise_descriptions">
+        <item>1. Lift your right leg and bend your knee to right angle\n
+2. Lift your upper torso to contract abdominal muscles and hold the lifted knee with your hands\n
+3. Hold still for 3 seconds\n
+4. Return to the starting position\n
+5. Repeat the exercise with the other leg</item>
+        <item>1. Lift your both and bend your knee to right angle\n
+2. Lift your upper torso to contract abdominal muscles and hold the lifted knee with your hands\n
+3. Hold still for 3 seconds\n
+4. Return to the starting position</item>
+        <item>1. Lift your right leg and bend your knee to right angle\n
+2. Lift your upper torso to contract abdominal muscles and lift your hands gently to the temple\n
+3. Hold still for 3 seconds\n
+4. Return to the starting position\n
+5. Repeat the exercise with the other leg</item>
+        <item>1. Lift your both and bend your knee to right angle\n
+2. Lift your upper torso to contract abdominal muscles and lift your hands gently to the temple\n
+3. Hold still for 3 seconds\n
+4. Return to the starting position</item>
+        <item>1. Lift your right leg and bend your knee to right angle, left leg should be slightly above ground\n
+2. Lift your upper torso to contract abdominal muscles and lift your hands gently to the temple\n
+3. Hold still for 3 seconds\n
+4. Repeat the exercise with the other leg</item>
+        <item>1. Lift your upper torso to contract abdominal muscles and lift both your legs straight and touch your knees with your hands\n
+5. Hold still for 3 seconds\n
+3. Return to the starting position</item>
+    </string-array>
+
+    <!--  TST  -->
+    <string-array name="numbers">
+        <item>Zero</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+
+    <string-array name="series_numbers">
+        <item>Series one</item>
+        <item>Series two</item>
+        <item>Series three</item>
+    </string-array>
+
+    <string-array name="exercise_numbers">
+        <item>Exercise one</item>
+        <item>Exercise two</item>
+        <item>Exercise three</item>
+        <item>Exercise four</item>
+        <item>Exercise five</item>
+        <item>Exercise six</item>
+    </string-array>
+
+
+</resources>

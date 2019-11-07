@@ -1,0 +1,150 @@
+<resources>
+
+    <!--  STRING  -->
+
+    <string name="app_name">6 Weidera</string>
+
+    <!--  MENU  -->
+
+    <!--  SETTINGS  -->
+    <string name="settings">Ustawienia</string>
+    <string name="theme">Motyw</string>
+    <string name="information">Informacje</string>
+    <string name="battery_saver">Zgodnie z Oszczędzaniem baterii</string>
+    <string name="delete_progress">Usuń postęp</string>
+    <string name="version">Wersja</string>
+    <string name="reminder_about_training">Przypomnienie o treningu</string>
+    <string name="enable_reminders">Włącz powiadomienia</string>
+    <string name="light">Jasny</string>
+    <string name="dark">Ciemny</string>
+    <string name="system_default">Zgodnie z ustawieniami systemowymi</string>
+    <string name="reminders_time">Czas powiadomienia</string>
+    <string name="reminders_disabled">Wyłączone</string>
+    <string name="general">Ogólne</string>
+    <string name="portrait">Pionowy</string>
+    <string name="landscape">Poziomy</string>
+    <string name="auto">Automatyczny</string>
+    <string name="screen_orientation_during_training">Orientacja ekranu podczas treningu</string>
+    <string name="delete_progress_title">Czy na pewno chcesz usunąć postęp</string>
+    <string name="break_between_exercises">Przerwa między ćwiczeniami</string>
+    <string name="break_between_series">Przerwa między seriami</string>
+    <string name="keep_screen_on">Utrzymaj ekran włączony</string>
+    <string name="training_setup">Ustawienia treningu</string>
+    <string name="sec">sek</string>
+    <string name="after_delete_progress_info">Twój postęp został usunięty</string>
+
+    <!--  SHORT ACTION  -->
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+
+    <!--  HOME  -->
+    <string name="day">Dzień</string>
+    <string name="go">Trenuj</string>
+    <string name="how_to">Jak ćwiczyć</string>
+
+
+    <!--  SUMMARY  -->
+    <string name="summary">Podsumowanie</string>
+    <string name="series">Seria</string>
+    <string name="exercise">Ćwiczenie</string>
+    <string name="repeat">Powtórzenie</string>
+
+    <!--  TRAINING  -->
+    <string name="exit_training">Czy na pewno chcesz opuścić trening</string>
+    <string name="training_will_start_in">Trening zacznie się za</string>
+    <string name="to_new_series">Do nowej serii</string>
+    <string name="to_new_exercise">Do nowego ćwiczenia</string>
+    <string name="click_button_to_start">Kliknij przycisk by rozpocząć</string>
+
+    <!--  TST  -->
+    <string name="tst_up">Up</string>
+    <string name="tst_down">Down</string>
+    <string name="tst_switch">Zmiana</string>
+    <string name="tst_finished">Trening zakończony</string>
+
+    <!--  IMG DESC  -->
+    <string name="screen_orientation_button">Przycisk zmiania orientację ekrany</string>
+    <string name="exercise_image">Zdjęcie ćwiczenia</string>
+    <string name="is_training_passed">Czy trening jest zaliczony</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="you_have_completed_all_training_days">You have completed all training days</string>
+
+    <string name="service_restriction_xiaomi">Aby dostawać przypomnienia o treningu zezwól na autostart</string>
+    <string name="attention">Uwaga</string>
+    <string name="dont_show_again">Nie pokazuj ponownie</string>
+
+    <!--  NEW UP -->
+
+
+
+    <!--  ARRAYS  -->
+
+    <!--  HOW-TO  -->
+    <string-array name="exercise_titles">
+        <item>Ćwiczenie 1</item>
+        <item>Ćwiczenie 2</item>
+        <item>Ćwiczenie 3</item>
+        <item>Ćwiczenie 4</item>
+        <item>Ćwiczenie 5</item>
+        <item>Ćwiczenie 6</item>
+    </string-array>
+
+    <string-array name="exercise_descriptions">
+        <item>1. Podnieś prawą nogę i zegnij kolano pod kątem prostym\n
+2. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha i przytrzymaj ręce podniesione w kierunku kolan\n
+3. Przytrzymaj nieruchomo przez 3 sekundy\n
+4. Wróć do pozycji początkowej\n
+5. Powtórz ćwiczenie z drugą nogą</item>
+        <item>1. Podnieś obie i zgnij kolano pod kątem prostym\n
+2. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha i przytrzymaj ręce podniesione w kierunku kolan\\n
+3. Przytrzymaj nieruchomo przez 3 sekundy\n
+4. Wróć do pozycji wyjściowej</item>
+        <item>1. Podnieś prawą nogę i zegnij kolano pod kątem prostym\n
+2. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha i delikatnie podnieś ręce do tułowia\n
+3. Przytrzymaj nieruchomo przez 3 sekundy\n
+4. Wróć do pozycji wyjściowej\n
+5. Powtórz ćwiczenie z drugą nogą</item>
+        <item>1. Podnieś obie i zegnij kolano pod kątem prostym\n
+2. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha i delikatnie podnieś ręce do tułowia\n
+3. Przytrzymaj nieruchomo przez 3 sekundy\n
+4. Wróć do pozycji wyjściowej</item>
+        <item>1. Podnieś prawą nogę i zegnij kolano pod kątem prostym, lewa noga powinna znajdować się nieco nad ziemią\n
+2. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha i delikatnie podnieś ręce do tułowia\n
+3. Przytrzymaj nieruchomo przez 3 sekundy\n
+4. Powtórz ćwiczenie z drugą nogą</item>
+        <item>1. Podnieś górną część tułowia, aby skurczyć mięśnie brzucha, unieś obie nogi prosto i dotknij dłońmi kolan\n
+5. Przytrzymaj nieruchomo przez 3 sekundy\n
+3. Wróć do pozycji wyjściowej</item>
+    </string-array>
+
+    <!--  TST  -->
+    <string-array name="numbers">
+        <item>Zero</item>
+        <item>Jeden</item>
+        <item>Dwa</item>
+        <item>Trzy</item>
+        <item>Cztery</item>
+        <item>Pięć</item>
+        <item>Sześć</item>
+        <item>Siedem</item>
+        <item>Osiem</item>
+        <item>Dziewieć</item>
+        <item>Dziesięć</item>
+    </string-array>
+
+    <string-array name="series_numbers">
+        <item>Seria pierwsza</item>
+        <item>Seria druga</item>
+        <item>Seria trzecia</item>
+    </string-array>
+
+    <string-array name="exercise_numbers">
+        <item>Ćwiczenie pierwsze</item>
+        <item>Ćwiczenie drugie</item>
+        <item>Ćwiczenie trzecie</item>
+        <item>Ćwiczenie czwarte</item>
+        <item>Ćwiczenie piąte</item>
+        <item>Ćwiczenie szóste</item>
+    </string-array>
+
+</resources>

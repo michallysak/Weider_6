@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false" app:title="@string/general">
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:summary="@string/light"
+            app:defaultValue="default"
+            app:key="theme"
+            app:title="@string/theme" />
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:summary="@string/auto"
+            app:defaultValue="auto"
+            app:key="screen_orientation"
+            app:title="@string/screen_orientation_during_training" />
+
+        <SwitchPreferenceCompat
+            app:iconSpaceReserved="false"
+            app:key="keep_screen_on"
+            app:defaultValue="true"
+            app:title="@string/keep_screen_on" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:key="training_setup_category"
+        app:iconSpaceReserved="false" app:title="@string/training_setup">
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:summary="5"
+            app:defaultValue="5"
+            app:key="break_between_exercises"
+            app:title="@string/break_between_exercises"/>
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:summary="10"
+            app:defaultValue="10"
+            app:key="break_between_series"
+            app:title="@string/break_between_series"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false" app:title="@string/reminder_about_training">
+
+        <SwitchPreferenceCompat
+            app:iconSpaceReserved="false"
+            app:key="reminders"
+            app:defaultValue="false"
+            app:title="@string/enable_reminders" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:summary="@string/reminders_disabled"
+            app:dependency="reminders"
+            app:key="reminders_time"
+            app:title="@string/reminders_time" />
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory>
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="delete_progress"
+            app:title="@string/delete_progress" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
